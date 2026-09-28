@@ -6,9 +6,7 @@ My work focuses on using **Python, GIS, data analysis, and computational methods
 
 ## 🎓 Current Research
 
-My M.Sc. research focuses on developing and evaluating methods for monitoring visitor activity in protected areas.
-
-The research combines data processing, spatial analysis, sensor data, and field observations to estimate visitor volumes, temporal patterns, direction of movement, dwell time, and occupancy.
+My M.Sc. research focuses on developing and evaluating methods for monitoring visitor activity in protected areas, including visitor volume, temporal patterns, direction of movement, dwell time, and occupancy.
 
 **Tools & methods:** Python · pandas · NumPy · Matplotlib · GIS · statistical analysis · data visualization
 
@@ -27,6 +25,18 @@ scikit-learn · Random Forest · TF-IDF · spaCy
 Data cleaning · Exploratory analysis · Visualization · Statistical evaluation · Time-series analysis
 
 ## 📌 Selected Projects
+
+### 🌲 Visitor Monitoring Toolkit
+
+Python toolkit developed as part of my M.Sc. research for processing and analyzing visitor-monitoring data from outdoor environments.
+
+The project includes BLE event processing and Device_ID reconstruction, multi-sensor comparison, calibration analysis, hourly visitor-volume analysis, directional summaries, dwell-time analysis, and occupancy estimation. The repository includes a fully synthetic demonstration dataset and example outputs.
+
+**Technologies:** Python · pandas · NumPy · Matplotlib · Tkinter · Statistical Analysis
+
+[View project →](https://github.com/UvalFisher/visitor-monitoring-toolkit)
+
+---
 
 ### 📰 GIS & Machine Learning – Fake News Spatial Analysis
 
@@ -49,10 +59,6 @@ The project focuses on processing spatial road and accident data and communicati
 **Technologies:** Python · GIS · Spatial Data Processing
 
 [View project →](https://github.com/ilianav98/Road_mapping_colorized)
-
-## 🔬 More Projects Coming Soon
-
-I'm currently preparing selected tools and analyses developed during my M.Sc. research for publication, including visitor-monitoring data analysis, multi-sensor comparison, and temporal and directional analysis.
 
 ## 📫 Connect
 
