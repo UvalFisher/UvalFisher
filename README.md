@@ -50,6 +50,16 @@ The workflow combines Haversine-based feature engineering, rule-based trip detec
 
 ---
 
+### 👁️ Computer Vision & Deep Learning
+
+Technion coursework exploring image classification, transfer learning, and object detection. The work includes custom CNNs and ResNet models on CIFAR-10, together with YOLOv8-based lunar-crater detection.
+
+**Technologies:** Python · PyTorch · torchvision · ResNet · YOLOv8 · Rasterio
+
+[View project →](https://github.com/UvalFisher/computer-vision-deep-learning)
+
+---
+
 ### 📰 GIS & Machine Learning – Fake News Spatial Analysis
 
 Collaborative Technion course project combining machine learning, NLP, and geographic analysis.
