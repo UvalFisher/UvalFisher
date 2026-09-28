@@ -38,6 +38,18 @@ The project includes BLE event processing and Device_ID reconstruction, multi-se
 
 ---
 
+### 🚦 Mobility Analysis & Machine Learning
+
+Technion machine-learning course project that transforms sequential cellular-location observations into detected trips and spatial mobility zones, then uses a PyTorch neural network to predict trip duration.
+
+The workflow combines Haversine-based feature engineering, rule-based trip detection, K-Means spatial clustering, mobility-pattern analysis, and ANN hyperparameter evaluation.
+
+**Technologies:** Python · pandas · NumPy · scikit-learn · PyTorch · Folium · Shapely
+
+[View project →](https://github.com/UvalFisher/mobility-analysis-ml)
+
+---
+
 ### 📰 GIS & Machine Learning – Fake News Spatial Analysis
 
 Collaborative Technion course project combining machine learning, NLP, and geographic analysis.
