@@ -56,6 +56,8 @@ Technion coursework exploring image classification, transfer learning, and objec
 
 **Technologies:** Python · PyTorch · torchvision · ResNet · YOLOv8 · Rasterio
 
+![YOLOv8 lunar crater detection](https://raw.githubusercontent.com/UvalFisher/computer-vision-deep-learning/main/assets/yolo_crater_detection.png)
+
 [View project →](https://github.com/UvalFisher/computer-vision-deep-learning)
 
 ---
